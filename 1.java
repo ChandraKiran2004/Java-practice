@@ -1,4 +1,4 @@
-class A
+class Range
 {
 	public static void main(String [] args)
 	{
